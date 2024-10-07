@@ -57,7 +57,7 @@ print("Setelah dilakukan lexing (memisahkan kata per kata) :\n",paragraf[2])
 print()
 
 # lexing (Types : menghilangkan kata duplikat)
-paragraf[2] = list(set(paragraf[2]))
+paragraf[2] = list(dict.fromkeys(paragraf[2]))
 print("Setelah dilakukan lexing (menghilangkan kata duplikat) :\n",paragraf[2])
 print()
 
@@ -120,9 +120,10 @@ analysis, informasi yang tadinya tidak terstruktur dapat diubah menjadi data yan
 lebih terstruktur
 
     Output :
-['nlp', 'natural', 'sosial', 'sistem', 'blog', 'format', 'isi', 'struktur', 'teks'
-, 'sentiment', 'ubah', 'languange', 'bentuk', 'media', 'informasi', 'opini', 
-'internet', 'bentuk', 'analysis', 'ekstraksi', 'bantu', 'bidang', 'data', 'review'
-, 'forum', 'situs', 'bangun', 'nali', 'processing', 'salah']
+['sentiment', 'analysis', 'salah', 'bidang', 'natural', 
+'languange', 'processing', 'nlp', 'bangun', 'sistem', 'nali', 
+'ekstraksi', 'opini', 'bentuk', 'teks', 'informasi', 'bentuk', 
+'internet', 'format', 'forum', 'blog', 'media', 'sosial', 
+'situs', 'isi', 'review', 'bantu', 'struktur', 'ubah', 'data']
 
 '''
