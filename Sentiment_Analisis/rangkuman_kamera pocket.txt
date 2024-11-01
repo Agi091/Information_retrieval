@@ -1,0 +1,24 @@
+Kamera: kamera pocket
+Kelebihan (Kata Kunci Positif):
+- barang: 32 kali
+- ok: 24 kali
+- kamera: 16 kali
+- nya: 15 kali
+- main: 14 kali
+- bagus: 12 kali
+- harga: 12 kali
+- sesuai: 12 kali
+- cepat: 9 kali
+- lazada: 9 kali
+
+Kekurangan (Kata Kunci Negatif):
+- barang: 115 kali
+- bagus: 74 kali
+- sesuai: 63 kali
+- kamera: 59 kali
+- nya: 53 kali
+- kirim: 46 kali
+- lazada: 36 kali
+- terima: 33 kali
+- yg: 29 kali
+- cepat: 28 kali

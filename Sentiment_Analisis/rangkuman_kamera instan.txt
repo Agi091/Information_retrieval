@@ -1,0 +1,24 @@
+Kamera: kamera instan
+Kelebihan (Kata Kunci Positif):
+- good: 5 kali
+- barang: 4 kali
+- ok: 4 kali
+- bagus: 3 kali
+- cepat: 3 kali
+- cepet: 3 kali
+- kasih: 3 kali
+- original: 3 kali
+- top: 3 kali
+- sesuai: 2 kali
+
+Kekurangan (Kata Kunci Negatif):
+- bagus: 33 kali
+- barang: 24 kali
+- banget: 16 kali
+- kamera: 13 kali
+- suka: 11 kali
+- cepat: 10 kali
+- nya: 9 kali
+- sesuai: 7 kali
+- terima: 7 kali
+- kurir: 6 kali

@@ -1,0 +1,24 @@
+Kamera: kamera mirrorless
+Kelebihan (Kata Kunci Positif):
+- barang: 12 kali
+- kirim: 9 kali
+- original: 7 kali
+- good: 5 kali
+- seller: 5 kali
+- thanks: 5 kali
+- bonus: 4 kali
+- lazada: 4 kali
+- sesuai: 4 kali
+- ok: 3 kali
+
+Kekurangan (Kata Kunci Negatif):
+- barang: 22 kali
+- sesuai: 16 kali
+- cepat: 14 kali
+- terima: 14 kali
+- bagus: 13 kali
+- kirim: 12 kali
+- deskripsi: 8 kali
+- kamera: 8 kali
+- mantap: 8 kali
+- kasih: 7 kali
