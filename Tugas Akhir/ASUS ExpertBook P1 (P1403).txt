@@ -1,0 +1,46 @@
+Summary
+ASUS ExpertBook P1 (P1403) adalah laptop bisnis yang simpel namun efektif, dirancang untuk mendukung aktivitas kerja sehari-hari dengan lancar. Fitur-fitur AI yang disematkan pada laptop ini juga sangat menarik.
+Yang Disukai
+Yang Tidak Disukai
+Gadgetren – ASUS kembali memperbarui lini laptop bisnis mereka dengan merilis ExpertBook P1 (P1403). Laptop ini hadir dengan desain modern dan dilengkapi berbagai fitur AI canggih yang mengikuti tren masa kini.
+Menariknya ExpertBook P1 sudah dibekali dengan lisensi Windows 11 Home dan Microsoft Office 2024 terbaru, yak bukan versi 2021 seperti yang masih umum ditemukan di laptop saat ini.
+Tak hanya itu, laptop ini juga dirancang untuk memenuhi kebutuhan profesional dengan fitur keamanan yang handal serta performa tinggi untuk mendukung aktivitas kerja sehari-hari.
+ExpertBook P1 (P1403) hadir dengan desain laptop konvensional yang dilapisi warna perak di seluruh bodinya, memberikan kesan profesional. Pada bagian penutup hanya terdapat pelat metal kecil bertuliskan ASUS EXPERTBOOK sebagai pembeda.
+Dengan bobot ringan sekitar 1,4 kg dan ukuran standar untuk laptop berlayar 14 inci, ExpertBook P1 mudah dibawa ke mana saja. Durabilitasnya juga tangguh karena telah lulus pengujian standar militer MIL-STD-810H.
+Ditambah lagi baut pada laptop ini disebut ASUS bersifat Anti Fallen Screw yang mana ketika laptop dibongkar maka baut akan tidak mudah hilang.
+Sebagai laptop bisnis, ExpertBook P1 (P1403) tentu tidak akan lengkap tanpa keberadaan port yang memadai. ASUS menjawab kebutuhan ini dengan menyematkan berbagai macam port mulai dari port LAN RJ45, slot Kensington Nano, hingga USB 3.2 Gen 1 Type-A di sisi kanan laptop.
+Sementara itu pada sisi kiri laptop dilengkapi dua USB 3.2 Gen 2 Type-C yang mendukung DisplayPort dan Power Delivery, sebuah USB 3.2 Gen 1 Type-A, HDMI 1.4b, serta audio combo jack.
+Untuk speaker laptop ini ditempatkan pada sisi bawah laptop yang berarti jika ingin keluaran audionya maksimal maka laptop perlu ditempatkan di atas permukaan yang keras.
+Daftar Isi
+ExpertBook P1 (P1403) dilengkapi keyboard dengan tombol-tombol yang terasa nyaman digunakan. Ukurannya pas untuk mengetik dengan feedback yang responsif di setiap tekanannya.
+Sebagai laptop yang mengedepankan fitur AI, ASUS menyematkan tombol khusus CoPilot yang memungkinkan pengguna mengakses asisten kecerdasan buatan Microsoft secara cepat dan praktis.
+Sayangnya ASUS tidak melengkapi keyboard laptop ini dengan pencahayaan latar yang mungkin akan sedikit menyulitkan saat mengetik di kondisi gelap.
+Beralih ke touchpad, ukurannya cukup luas meskipun permukaannya agak kesat saat digunakan untuk navigasi. Menariknya di sisi kanan atas touchpad terdapat sensor pemindai sidik jari untuk mempermudah proses otentikasi di laptop.
+Yang saya suka dari layar ExpertBook P1 (P1403) adalah lapisan anti-glare yang bisa meminimalkan pantulan cahaya. Fitur ini membuat pengalaman menggunakan laptop tetap nyaman meskipun membelakangi lampu atau berada di dekat jendela. Dengan begitu fokus pada pekerjaan di layar tetap terjaga.
+Layar laptop ini menggunakan panel LED Backlit berukuran 14 inci dengan resolusi Full HD (1920 x 1080 piksel). Layar ini mendukung cakupan warna NTSC 45%, refresh rate 60Hz, dan tingkat kecerahan hingga 300 nit.
+Meskipun tidak ada fitur layar yang tergolong wah, tampilan layarnya tetap memadai di mana terlihat tajam dan cukup cerah di berbagai situasi.
+Laptop ExpertBook P1 (P1403) yang saya gunakan dilengkapi dengan prosesor Intel Core i5-13500H. Meskipun bukan prosesor terbaru, performanya sudah lebih dari cukup untuk mendukung kebutuhan kerja sehari-hari dengan lancar.
+Apalagi prosesor tersebut dipadukan dengan memori DDR5 berkapasitas 16GB dan prosesor grafis Intel Iris Xe. Selain itu laptop ini memiliki penyimpanan SSD berkapasitas 512GB dengan teknologi M.2 2280 NVMe PCIe 4.0 yang menawarkan kecepatan baca-tulis data yang sangat tinggi.
+RAM pada laptop ini dapat diupgrade sesuai kebutuhan dan ada dua slot SSD yang mendukung konfigurasi RAID 0 dan RAID 1. Dengan begitu pengguna dapat memilih antara kecepatan maksimal atau keamanan data ekstra sesuai keperluan.
+Pada pengujian dengan Cinebench R23, ExpertBook P1 (P1403) mencatat skor 1.753 untuk single-core dan 8.095 untuk multi-core. Sementara itu pengujian menggunakan PCMark 10 menghasilkan skor 5.593 yang cukup kompetitif di kelasnya untuk laptop saat ini.
+Performa laptop ini terasa mulus dalam penggunaan sehari-hari. Saat saya bekerja dengan aplikasi Office sambil multitasking menggunakan Chrome dengan banyak tab, semuanya berjalan lancar.
+Di era modern seperti sekarang, kebutuhan untuk melakukan meeting virtual sudah menjadi bagian tak terpisahkan dari pekerjaan. Nah laptop ini sudah cukup mumpuni untuk melakukan kegiatan tersebut melalui mikrofon dan webcam beresolusi 720 piksel yang ada di dalamnya.
+Untuk memberikan pengalaman yang lebih berbeda, laptop ini dilengkapi dengan fitur noise cancelling berbasis AI yang mampu meredam kebisingan baik dari suara kita sendiri maupun suara lawan bicara sehingga komunikasi selama meeting menjadi lebih jernih.
+Ditambah lagi ada aplikasi AI ExpertMeet yang mana memiliki 5 fungsi menarik yakni Webcam Watermark, Screen Watermark, AI Translated Subtitles, Multiple Speakers Recognition, dan juga AI Meeting Summary.
+Dengan menggunakan Webcam Watermark, pengguna dapat menempelkan gambar seperti kartu nama digital pada tampilan webcam saat meeting virtual. Ini bisa bermanfaat untuk memperkenalkan diri kepada klien karena mereka dapat dengan mudah memindai kartu nama tersebut langsung dari layar.
+Screen Watermark memungkinkan penambahan watermark pada layar laptop baik saat di-screenshot maupun difoto. Fitur ini bisa digunakan untuk menandai dokumen penting atau rahasia.
+Pernah menghadiri meeting virtual dengan peserta dari berbagai negara yang berbicara dalam bahasa berbeda? AI Translated Subtitles hadir untuk mengatasi hal ini. Fitur ini mampu menerjemahkan ucapan peserta secara langsung sehingga percakapan menjadi lebih mudah dipahami.
+Tak hanya itu, hasil rekaman meeting dapat diolah menjadi transkrip otomatis melalui AI Meeting Summary, tidak perlu lagi repot-repot membuat ringkasan secara manual. Dengan dukungan Multiple Speakers Recognition, laptop ini bahkan bisa membedakan suara setiap peserta lalu menyusun ringkasan berdasarkan ucapan masing-masing.
+Terakhir untuk mengamankan data dan juga privasi, laptop ini dibekali chip TPM 2.0 khusus serta shutter manual untuk menutup webcam.
+Soal ketahanan daya baterainya, ExpertBook P1 (P1403) mampu digunakan sekitar 4 jam dalam penggunaan kerja nonstop dari baterai terisi penuh hingga tersisa 10%. Ini dengan setelan kecerahan layar di 75%.
+Meskipun tidak cukup untuk seharian penuh tanpa pengisian ulang, daya tahan baterai laptop ini terbilang cukup standar untuk laptop di kelasnya.
+Untuk pengisian daya, laptop ini dapat diisi melalui salah satu port USB Type-C yang tersedia. Dengan menggunakan charger bawaan, pengisian dari 10% hingga 100% memerlukan waktu sekitar 2 jam 26 menit.
+ASUS ExpertBook P1 (P1403) adalah laptop bisnis yang simpel namun efektif, dirancang untuk mendukung aktivitas kerja sehari-hari dengan lancar. Harganya pun terjangkau mulai Rp8.799.000.
+Sebagai laptop bisnis, ExpertBook P1 (P1403) bisa dipersonalisasi sesuai keinginan untuk software di dalamnya seperti misalnya terinstal produk Adobe ataupun Zahir Accounting. Tentunya semakin banyak software yang diinstal, semakin tinggi pula harga yang dikenakan.
+Fitur-fitur AI yang disematkan pada laptop ini juga sangat menarik, terutama dengan hadirnya AI ExpertMeet yang dapat mempercepat dan meningkatkan efisiensi dalam bekerja.
+Editor-in-Chief Gadgetren yang sudah belasan tahun berpengalaman di dunia teknologi khususnya handphone. Awalnya ia pernah menjadi developer aplikasi Android di Nexian dan kini terjun ke dunia media.
+Komentar
+Nama *
+Email *
+Δ
+Copyright Gadgetren © 2024. Gadgetren is part of PT Sponsio Visi Media.
